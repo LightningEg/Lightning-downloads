@@ -2,7 +2,13 @@
 
 This repository hosts public download releases of the Lightning desktop app. The app source is in `elfekimuhammed/Lightning`; the website (lightningeg.com) that links here is `elfekimuhammed/Lightning_website`.
 
-## Git workflow (owner rule)
+<a id="git-workflow-owner-rule"></a>
+### Index
+
+<!-- section-index -->
+- [1. Git workflow (owner rule)](#1-git-workflow-owner-rule)
+
+## 1. Git workflow (owner rule)
 
 - Work directly on `main` and push to `origin main`. Do not create branches.
 - If a separate branch is truly needed, give it a distinctive, descriptive name, then merge it into `main` and push `main` as soon as the work is finished.
